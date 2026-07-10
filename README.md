@@ -350,7 +350,7 @@ Currently learning:
 
 - **Email:** lucas.patrocinio3003@gmail.com
 - **GitHub:** [github.com/Lpao2](https://github.com/Lpao2)
-- **LinkedIn:** Add your LinkedIn profile here
+- **LinkedIn:** https://www.linkedin.com/in/lucas-patrocinio-300300/
 
 ---
 
