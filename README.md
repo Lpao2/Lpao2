@@ -45,3 +45,25 @@ requiring the user to manually configure the development environment.
 - Installation and dependency automation
 
 **Status:** Functional prototype completed.
+---
+
+## ⚙️ Automation and Content Processing
+
+### AutoShorts — Automated Video Processing Pipeline
+
+An automation pipeline designed to process long-form content and generate
+short-form videos.
+
+The project automates several stages of the content production workflow,
+reducing repetitive manual work and organizing the generated media.
+
+**Technologies:** Python, media processing, APIs and task automation.
+
+**Main technical challenges:**
+
+- Media file processing
+- Automated workflow orchestration
+- File organization
+- Error handling and execution monitoring
+
+**Status:** Functional prototype.
