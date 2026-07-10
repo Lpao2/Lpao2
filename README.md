@@ -32,7 +32,7 @@ Automated deployment platform for a self-hosted Linux server, integrating contai
 
 ---
 
-### Desktop Messaging Chatbot
+### [Desktop Messaging Chatbot](https://github.com/Lpao2/desktop-messaging-chatbot)
 
 Windows desktop application for managing automated conversations between authorized messaging accounts through configurable workflows and browser sessions.
 
