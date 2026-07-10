@@ -1,59 +1,47 @@
 # Hi, I'm Lucas Patrocínio 👋
 
 Electronic Engineering student at the Federal University of Santa Catarina
-with experience in software automation, Linux infrastructure, embedded
-systems and application development.
+with experience in software development, automation, Linux infrastructure
+and embedded systems.
 
-I enjoy building complete projects that combine software, hardware,
-networking and automation.
+I enjoy developing complete projects that combine software, hardware,
+networking and real-world automation.
 
-## Main areas
+---
 
-- Python automation and backend development
-- Linux servers, Docker and self-hosted infrastructure
-- Embedded systems, ESP32 and FreeRTOS
-- C, C++, JavaScript and shell scripting
-- Mobile development with Flutter and Dart
+## 💻 Application Development
 
-## Featured projects
+### BookRats — Social Study Planning App
 
-### Autotech Server Platform
+A mobile application designed to combine semester planning, study tracking
+and social motivation between students.
 
-Automated deployment platform for a self-hosted media server.
+Users can organize subjects, record study sessions, participate in groups,
+share their progress and follow their friends' academic routines.
 
-The project installs and configures a complete Docker-based environment,
-including Jellyfin, Sonarr, Radarr, qBittorrent, Bazarr and custom automation
-services.
+**Planned technologies:** Flutter, Dart, Supabase and PostgreSQL.
 
-**Technologies:** Linux, Docker, Python, Shell, PowerShell and JavaScript.
+**Status:** In development.
 
-### AutoShorts
+---
 
-Automated video-processing pipeline designed to generate and organize
-short-form content.
+### EsquentaZap — Desktop Messaging Automation App
 
-**Technologies:** Python, media processing, APIs and task automation.
+A desktop application developed to manage controlled messaging interactions
+through an accessible graphical interface.
 
-### Embedded Real-Time System
+The project includes browser automation, configurable workflows, execution
+control and a packaged Windows application that can be installed without
+requiring the user to manually configure the development environment.
 
-Embedded-system project developed with an ESP32, FreeRTOS tasks,
-keypad input, display control, sensors and buzzer feedback.
+**Technologies:** Python, Playwright, desktop GUI development and PyInstaller.
 
-**Technologies:** C, ESP-IDF, FreeRTOS and embedded electronics.
+**Main technical challenges:**
 
-### BookRats — In development
+- Browser session management
+- Automation workflow control
+- Desktop interface development
+- Application packaging for Windows
+- Installation and dependency automation
 
-A social study-planning application where students organize subjects,
-record study sessions and motivate friends through groups and challenges.
-
-**Technologies:** Flutter, Dart and Supabase.
-
-## Technologies
-
-`Python` `C` `C++` `JavaScript` `Linux` `Docker` `Git`
-`ESP32` `FreeRTOS` `Shell` `PowerShell`
-
-## Contact
-
-- LinkedIn: Lucas Patrocínio
-- Email: lucas.patrocinio3003@gmail.com
+**Status:** Functional prototype completed.
