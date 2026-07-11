@@ -10,7 +10,7 @@ I build practical projects that connect software, hardware, APIs and real-world 
 
 ## Featured Projects
 
-### AutoShorts — Automated Video Processing Pipeline
+### [AutoShorts — Automated Video Processing Pipeline](https://github.com/Lpao2/autoshorts)
 
 Automation pipeline created to process long-form media and generate short-form content with reduced manual intervention.
 
