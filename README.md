@@ -21,7 +21,7 @@ Automation pipeline created to process long-form media and generate short-form c
 
 ---
 
-### [Autotech Server — Automated Linux Media Platform](https://github.com/Lpao2/autotech-server-autoinstall)
+### [Autotech Server — Automated Linux Media Platform](https://github.com/Lpao2/autotech-server)
 
 Automated deployment platform for a self-hosted Linux server, integrating containerized media services, custom APIs and installation scripts.
 
