@@ -10,25 +10,27 @@ I build practical projects that connect software, hardware, APIs and real-world 
 
 ## Featured Projects
 
-### [AutoShorts — Automated Video Processing Pipeline](https://github.com/Lpao2/autoshorts)
+### [AutoShorts — Automated Video Processing Pipeline](https://github.com/Lpao2/Autoshorts)
 
-Automation pipeline created to process long-form media and generate short-form content with reduced manual intervention.
+Local pipeline that transforms selected moments from long-form videos into vertical short-form content with FFmpeg.
 
-`Python` `Media Processing` `APIs` `Automation`
+`Python` `FFmpeg` `Media Processing` `Automation`
 
-**Highlights:** multi-stage processing, file organization, execution monitoring and error handling.
-**Status:** Functional prototype.
+**Highlights:** timestamp parsing and validation, automated video cutting, vertical 1080×1920 composition, filename sanitization and CLI execution.
+
+**Status:** Functional portfolio edition.
 
 ---
 
-### [Autotech Server — Automated Linux Media Platform](https://github.com/Lpao2/autotech-server)
+### [Autotech Server — Self-Hosted Linux Media Platform](https://github.com/Lpao2/autotech-server)
 
-Automated deployment platform for a self-hosted Linux server, integrating containerized media services, custom APIs and installation scripts.
+Sanitized architecture showcase and deployment example derived from a functional self-hosted Linux media server.
 
-`Linux` `Docker` `Python` `Flask` `Shell` `JavaScript` `REST APIs` `Systemd`
+`Linux` `Docker` `Python` `Flask` `Shell` `REST APIs` `Systemd`
 
-**Highlights:** Docker orchestration, persistent storage, service integration, automated installation and custom content-processing tools.
-**Status:** Functional Linux deployment.
+**Highlights:** container orchestration, persistent storage, integrated media services, automation design and custom content-processing tools.
+
+**Status:** Documented public showcase of a functional private deployment.
 
 ---
 
@@ -39,37 +41,48 @@ Windows desktop application for managing automated conversations between authori
 `Python` `Playwright` `Desktop GUI` `PyInstaller` `Windows`
 
 **Highlights:** multiple session management, authenticated browser profiles, execution controls and standalone application packaging.
+
 **Status:** Completed desktop application.
 
 ---
 
-### BookRats — Social Study Planning App
+### [32-bit MIPS ALU — Digital Systems Project](https://github.com/Lpao2/Projeto-Sistemas-Digitais-INE5406)
 
-Mobile application designed to combine academic planning, study tracking and social motivation through groups, goals and shared progress.
+Academic VHDL project implementing a 32-bit arithmetic logic unit inspired by the MIPS architecture, with an FSMD-based control unit and modular datapath.
 
-`Flutter` `Dart` `Supabase` `PostgreSQL`
+`VHDL` `Digital Design` `FSMD` `Intel Quartus`
 
-**Planned features:** semester planning, study sessions, social feed, groups, rankings, streaks and progress statistics.
-**Status:** Initial development.
+**Highlights:** modular RTL design, arithmetic and logical operations, reusable components and multi-cycle shift-and-add multiplication.
+
+**Status:** Completed academic project.
 
 ---
 
 ## Technical Stack
 
-**Languages:** Python, C, C++, JavaScript, Shell, PowerShell and Dart
-**Infrastructure:** Linux, Ubuntu Server, Docker, Docker Compose, Git and Systemd
-**Backend and automation:** Flask, REST APIs, Playwright and PyInstaller
-**Embedded systems:** ESP32, ESP-IDF, FreeRTOS, GPIO, UART and I2C
-**Databases:** SQLite, PostgreSQL and Supabase
+### Used in projects
+
+- **Languages:** Python, C, C++, JavaScript, VHDL, Shell and PowerShell
+- **Infrastructure:** Linux, Ubuntu Server, Docker, Docker Compose, Git and Systemd
+- **Backend and automation:** Flask, REST APIs, Playwright, FFmpeg and PyInstaller
+- **Embedded systems:** ESP32, ESP-IDF, FreeRTOS, GPIO, UART and I2C
+- **Data:** SQLite, JSON and environment-based configuration
+
+### Currently learning
+
+- Flutter and Dart
+- PostgreSQL and Supabase
+- Backend architecture, automated testing and CI/CD
 
 ---
 
 ## Current Focus
 
-* Developing the first version of BookRats
-* Publishing documented case studies of completed projects
-* Improving backend, DevOps, mobile and embedded development skills
-* Building software that connects electronics, infrastructure and automation
+- Planning and developing the first version of **BookRats**, a social study-planning application
+- Adding automated tests and continuous integration to portfolio projects
+- Publishing documented case studies of completed projects
+- Improving backend, DevOps, mobile and embedded development skills
+- Building software that connects electronics, infrastructure and automation
 
 ---
 
@@ -78,4 +91,5 @@ Mobile application designed to combine academic planning, study tracking and soc
 I'm open to junior opportunities, internships and collaborations involving software development, automation, Linux infrastructure or embedded systems.
 
 **Email:** [lucas.patrocinio3003@gmail.com](mailto:lucas.patrocinio3003@gmail.com)
+
 **LinkedIn:** [linkedin.com/in/lucas-patrocinio-300300](https://www.linkedin.com/in/lucas-patrocinio-300300/)
