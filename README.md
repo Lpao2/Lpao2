@@ -58,7 +58,7 @@ A Windows desktop application for managing automated conversations between autho
 
 ---
 
-### Smart Electronic Lock with Alexa — Microelectronics Project
+### [Smart Electronic Lock with Alexa — Microelectronics Project](https://github.com/Lpao2/smart-electronic-lock-alexa)
 
 <!-- Add the public repository link to the project title when it is available. -->
 
@@ -68,7 +68,7 @@ An ESP32-C3-based smart lock combining local password access with remote voice c
 
 **Highlights:** local keypad authentication, cloud-mediated voice commands, task-based embedded architecture, servo actuation and automatic state synchronization.
 
-**Status:** Completed academic project. Repository and technical documentation coming soon.
+**Status:** Completed academic project with a functional Wokwi simulation and technical documentation.
 
 ---
 
