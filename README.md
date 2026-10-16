@@ -51,12 +51,6 @@ A production-oriented, self-hosted platform for Windows and Linux that unifies c
 ![Systemd](https://img.shields.io/badge/Systemd-4B5563?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-4B5563?style=flat-square&logo=powershell&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/Lpao2/autotech-server">
-    <img src="https://raw.githubusercontent.com/Lpao2/autotech-server/main/docs/screenshots/showcase-home.png" width="100%" alt="Autotech Server media libraries">
-  </a>
-</p>
-
 **Highlights:** unified Discover experience; automated Sonarr, Radarr and qBittorrent workflows; custom Python manga pipeline with provider abstraction, CBZ generation, covers and metadata; deep Jellyfin UX customization; Windows and Linux installers; local APIs; storage orchestration; manifests, signatures, smoke tests, checkpoints, rollback and updater infrastructure.
 
 [Product](https://api.autotech.gripe) · [Architecture and technical case study](https://github.com/Lpao2/autotech-server)
