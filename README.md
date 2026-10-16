@@ -24,7 +24,7 @@ I build practical projects that connect software, hardware, cloud services and r
 
 ### [BookRats — Social Study Tracking App](https://github.com/Lpao2/bookrats)
 
-A functional Android application designed to help students build study consistency through social accountability, progress tracking and group interaction.
+A published Android application that helps students build study consistency through social accountability, progress tracking and group interaction.
 
 ![Flutter](https://img.shields.io/badge/Flutter-4B5563?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-4B5563?style=flat-square&logo=dart&logoColor=white)
@@ -35,24 +35,33 @@ A functional Android application designed to help students build study consisten
 
 **Highlights:** Google authentication, study sessions with photo uploads, social feed, groups and invite codes, weekly and monthly rankings, real-time private chat, push notifications, profile statistics, Portuguese and English localization, light and dark themes, moderation tools and account management.
 
-![Status](https://img.shields.io/badge/Status-Google%20Play%20Closed%20Testing-B3261E?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Available%20on%20Google%20Play-2E8B57?style=flat-square&logo=googleplay&logoColor=white)
 
 ---
 
-### [Autotech Server — Self-Hosted Linux Media Platform](https://github.com/Lpao2/autotech-server)
+### [Autotech Server — Cross-Platform Media Automation Platform](https://github.com/Lpao2/autotech-server)
 
-A documented architecture showcase and deployment example derived from a functional self-hosted Linux media server.
+A production-oriented, self-hosted platform for Windows and Linux that unifies content discovery, downloads, organization, metadata, subtitles and customized Jellyfin libraries for movies, series, anime and manga.
 
-![Linux](https://img.shields.io/badge/Linux-4B5563?style=flat-square&logo=linux&logoColor=white)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-4B5563?style=flat-square&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-4B5563?style=flat-square&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%205.0.0-4B5563?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%205.0.1-4B5563?style=flat-square&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B5563?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-4B5563?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4B5563?style=flat-square&logo=docker&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-4B5563?style=flat-square&logo=jellyfin&logoColor=white)
 ![Systemd](https://img.shields.io/badge/Systemd-4B5563?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-4B5563?style=flat-square&logo=powershell&logoColor=white)
 
-**Highlights:** container orchestration, persistent storage, integrated media services, automated content workflows and custom processing tools.
+<p align="center">
+  <a href="https://github.com/Lpao2/autotech-server">
+    <img src="https://raw.githubusercontent.com/Lpao2/autotech-server/main/docs/screenshots/showcase-home.png" width="100%" alt="Autotech Server media libraries">
+  </a>
+</p>
 
-![Status](https://img.shields.io/badge/Status-Functional%20Private%20Deployment-2E8B57?style=flat-square)
+**Highlights:** unified Discover experience; automated Sonarr, Radarr and qBittorrent workflows; custom Python manga pipeline with provider abstraction, CBZ generation, covers and metadata; deep Jellyfin UX customization; Windows and Linux installers; local APIs; storage orchestration; manifests, signatures, smoke tests, checkpoints, rollback and updater infrastructure.
+
+[Product](https://api.autotech.gripe) · [Architecture and technical case study](https://github.com/Lpao2/autotech-server)
+
+![Status](https://img.shields.io/badge/Status-Windows%20and%20Linux%20Production%20Targets-2E8B57?style=flat-square)
 
 ---
 
@@ -131,7 +140,7 @@ An academic VHDL project implementing a 32-bit arithmetic logic unit inspired by
 
 ## Current Focus
 
-- Improving BookRats through closed-testing feedback, stability analysis and product validation
+- Improving BookRats through production feedback, stability analysis and product validation
 - Expanding my backend, DevOps, mobile and embedded development skills
 - Publishing documented case studies of completed projects
 - Building software that connects electronics, infrastructure and automation
@@ -146,4 +155,3 @@ I'm open to junior opportunities, internships and collaborations involving softw
 **Email:** [lucas.patrocinio3003@gmail.com](mailto:lucas.patrocinio3003@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/lucas-patrocinio-300300](https://www.linkedin.com/in/lucas-patrocinio-300300/)
-
