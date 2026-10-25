@@ -59,18 +59,25 @@ A production-oriented, self-hosted platform for Windows and Linux that unifies c
 
 ---
 
-### [AutoShorts — Automated Video Processing Pipeline](https://github.com/Lpao2/Autoshorts)
+### [AutoShorts — AI-Powered Video Production & Publishing](https://github.com/Lpao2/Autoshorts)
 
-A local pipeline that transforms selected moments from long-form videos into vertical short-form content using FFmpeg.
+An end-to-end platform that turns authorized long-form videos into captioned YouTube Shorts, combining local media processing, AI-assisted editing and continuous multi-channel publishing on a Linux server.
 
 ![Python](https://img.shields.io/badge/Python-4B5563?style=flat-square&logo=python&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-4B5563?style=flat-square&logo=ffmpeg&logoColor=white)
-![Media Processing](https://img.shields.io/badge/Media%20Processing-4B5563?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-4B5563?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4B5563?style=flat-square&logo=googlegemini&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4B5563?style=flat-square&logo=sqlite&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube%20API-4B5563?style=flat-square&logo=youtube&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-4B5563?style=flat-square&logo=playwright&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-4B5563?style=flat-square&logo=linux&logoColor=white)
 
-**Highlights:** timestamp parsing and validation, automated video cutting, vertical 1080×1920 composition, filename sanitization and command-line execution.
+**Highlights:** local transcription with Faster Whisper; Gemini-powered clip selection and editorial ranking; theme-specific vertical crops and synchronized captions; branding and OAuth management for a 60-channel architecture; inventory-driven production and scheduling; idempotent publishing, resumable workflows and post-publication media cleanup; desktop GUI, CLI tools and continuous systemd services.
 
-![Status](https://img.shields.io/badge/Status-Completed-2E8B57?style=flat-square)
+**Engineering:** 493 automated tests, persistent SQLite state, incremental migrations, isolated browser sessions, strict channel validation and safeguards against duplicate uploads.
+
+![Status](https://img.shields.io/badge/Status-Live%20Operation%20%26%20Validation-2E8B57?style=flat-square)
+
+---
 
 ---
 
