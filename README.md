@@ -131,20 +131,20 @@ An academic VHDL project implementing a 32-bit arithmetic logic unit inspired by
 
 ## Currently Improving
 
-- Automated testing and CI/CD
-- Scalable backend architecture
-- Application security and database design
-- Production monitoring and observability
-- Mobile application architecture and state management
+- Automated testing, CI/CD and release workflows
+- Production monitoring, observability and reliability
+- Backend architecture, security and database design
+- Performance optimization and resource management
+- Technical documentation and engineering case studies
 
 ---
 
 ## Current Focus
 
-- Improving BookRats through production feedback, stability analysis and product validation
-- Expanding my backend, DevOps, mobile and embedded development skills
-- Publishing documented case studies of completed projects
-- Building software that connects electronics, infrastructure and automation
+- Monitoring and refining deployed applications through real-world usage
+- Maintaining BookRats, Autotech Server and AutoShorts
+- Deepening my skills in backend development, Linux infrastructure and embedded systems
+- Building a portfolio that demonstrates complete products and engineering decisions
 - Preparing for international junior and internship opportunities
 
 ---
